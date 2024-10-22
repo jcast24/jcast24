@@ -4,6 +4,8 @@ My name is Jesus Castro!
 
 I know enough that I know nothing 👾
 
+This is currently my favorite [video](https://www.youtube.com/watch?v=8u-P2YAiOrE): 
+
 <!--
 **jcast24/jcast24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
